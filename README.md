@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate with someone to work in pair or group.
 - 🥅 2023 Goals: create new projects & new technology's and find job in IT.
 
-### All communication methods are available on my (https://dvnkx.github.io/lisniakbogdan/ "website")!
+### All communication methods are available on my [website](https://dvnkx.github.io/lisniakbogdan/ "Website")!
