@@ -1,7 +1,18 @@
-### Hi there, I'm Bogdan - aka Dankö 👋
+# About Me 👋
 
-## I'm a self-taught Frontend Developer
+### Hi there, I'm Bohdan - aka Dankö 🌟
 
-- 🌱 Currently I'm working on my Portfolio website [https://github.com/dvnkx/Portfolio]
+I'm 22 y.o. 🧔🏻‍♂️ living in Kyiv, Ukraine 🇺🇦.
 
-### All communication methods are available on my [website](https://dvnkx.github.io/lisniakbogdan/ "Website")!
+## I'm a self-taught Frontend Developer 🚀
+
+- 🥹 My Portfolio website [https://github.com/dvnkx/lisniakbogdan];
+- 🖼️ Currently I'm working on Gallery project [https://github.com/dvnkx/dvnkx-gallery].
+
+### My Journey 🌱 
+
+**I am keen to engage with cutting-edge processes and contribute to the development of impactful projects**.
+**With a strong foundation in modern frontend technologies**, **I enjoy tackling new challenges and learning continuously**.
+
+### Let's Connect! 🤝 
+✉️ All communication methods are available on my [Website](https://dvnkx.github.io/lisniakbogdan/#contact)!
