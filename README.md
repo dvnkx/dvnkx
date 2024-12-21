@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Bohdan - aka Dankö 🌟
 
-I'm 22 y.o. 🧔🏻‍♂️ living in Kyiv, Ukraine 🇺🇦.
+I'm 23 y.o. 🧔🏻‍♂️ living in Kyiv, Ukraine 🇺🇦.
 
 ## I'm a self-taught Frontend Developer 🚀
 
