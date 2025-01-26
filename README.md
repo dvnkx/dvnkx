@@ -7,7 +7,6 @@ I'm 23 y.o. 🧔🏻‍♂️ living in Kyiv, Ukraine 🇺🇦.
 ## I'm a self-taught Frontend Developer 🚀
 
 - 🥹 My Portfolio website [https://dvnkx.github.io/lisniakbogdan/];
-- 🖼️ Currently I'm working on Gallery project [https://github.com/dvnkx/dvnkx-gallery].
 
 ### My Journey 🌱 
 
